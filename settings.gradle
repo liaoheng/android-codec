@@ -1,0 +1,4 @@
+rootProject.name = "codec"
+include ':app'
+include ':codec'
+include ':codecview'
